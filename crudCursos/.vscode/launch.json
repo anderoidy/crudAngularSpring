@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LadoapiApplication<ladoapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ander.ladoapi.LadoapiApplication",
+            "projectName": "ladoapi",
+            "args": ""
+        }
+    ]
+}
